@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SHOAIB ABDUL KHADEER</h1>
 
 <h3 align="center">A passionate MERN Developer (ReactJs,NextJs,React-Native)</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+<img align="right" alt="Coding" width="200" src="https://i.gifer.com/FUMc.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shoaib+Welcome+to+My+Profile!;Over+1+year+of+programming+experience;Always+learning+new+things+;MERN+enthusiast)](https://git.io/typing-svg)
 
