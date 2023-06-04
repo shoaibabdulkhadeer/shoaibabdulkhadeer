@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHOAIB ABDUL KHADEER</h1>
 <h3 align="center">A passionate frontend developer (ReactJs,NextJs,React-Native)</h3>
-<img align="right" alt="Coding" width="200" src="https://steamuserimages-a.akamaihd.net/ugc/785251761954376910/D89177B5D9BA41592FD06B8727E5A3AE617DDDDB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/785251761954376910/D89177B5D9BA41592FD06B8727E5A3AE617DDDDB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibabdulkhadeer&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibabdulkhadeer" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shoaibak.netlify.app/](https://shoaibak.netlify.app/)
 
-- 📝 I regularly write articles on [https://steamcommunity.com/id/xoxo121](https://steamcommunity.com/id/xoxo121)
+- 🎮 My Gaming World [https://steamcommunity.com/id/xoxo121](https://steamcommunity.com/id/xoxo121)
 
 - 💬 Ask me about **Tailwind Css,Reactjs,Nextjs,Native Apps**
 
