@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate MERN Developer (ReactJs,NextJs,React-Native)</h3>
 <img align="right" alt="Coding" width="200" src="https://www.technotification.com/wp-content/uploads/2018/09/Offended-Seriously-Computer-Guy-Meme.gif">
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*a-HMmQFQNC76zCZBZfFgJg.gif">
+<img align="left" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*a-HMmQFQNC76zCZBZfFgJg.gif">
 
 
 
