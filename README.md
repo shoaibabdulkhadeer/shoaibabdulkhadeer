@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHOAIB ABDUL KHADEER</h1>
+<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SHOAIB ABDUL KHADEER</h1>
 <h3 align="center">A passionate MERN Developer (ReactJs,NextJs,React-Native)</h3>
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/785251761954376910/D89177B5D9BA41592FD06B8727E5A3AE617DDDDB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
