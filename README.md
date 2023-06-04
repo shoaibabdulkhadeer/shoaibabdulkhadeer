@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHOAIB ABDUL KHADEER</h1>
 <h3 align="center">A passionate frontend developer (ReactJs,NextJs,React-Native)</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/785251761954376910/D89177B5D9BA41592FD06B8727E5A3AE617DDDDB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibabdulkhadeer&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibabdulkhadeer" /> </p>
 
